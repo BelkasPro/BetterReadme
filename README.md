@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=A3DCBE)
 # Hello user, in this Repository i show you how to create really good ReadMe to your Profile or project.
 # Привет пользователь, в этом репозитории я покажу как сделать реально хороший ReadMe для Вашего профиля либо проекта.
 Well first let's deal with the repository, first we have to create the repository itself and to do that we just need to click on the `Repository` button and then `New` below you can see how it looks like.
@@ -6,3 +7,4 @@ Well first let's deal with the repository, first we have to create the repositor
 ![изображение](https://github.com/user-attachments/assets/da935582-a017-4d77-b52c-b80d8ea3ebb1)
 
 ![изображение](https://github.com/user-attachments/assets/0b41b6d9-8cb6-4109-9a18-e36f49e77749)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=A3DCBE&section=footer)
