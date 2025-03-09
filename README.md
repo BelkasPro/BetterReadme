@@ -6,12 +6,7 @@
 </p>
 <br/>
 
-## 🔍 Navigation in project
-1.[How to create Repository](#-hello-user-in-this-repository-i-show-you-how-to-create-really-good-readme-to-your-profile-or-project)
-2.[After creating Repository](#-after-creating-repository)
-3.[In project stroke](#-in-project-stroke)
-
-# 📜 Hello user, in this Repository i show you how to create really good ReadMe to your Profile or project.
+## 📜 Hello user, in this Repository i show you how to create really good ReadMe to your Profile or project.
 Well first let's deal with the repository, first we have to create the repository itself and to do that we just need to click on the `Repository` button and then `New` below you can see how it looks like.
 -----
 ![img](https://github.com/user-attachments/assets/da935582-a017-4d77-b52c-b80d8ea3ebb1)
@@ -32,4 +27,8 @@ For put this to your project or profile readme type stroke like this:
 ```
 ![header](https://capsule-render.vercel.app/api?type=slice)
 ```
+So now its all, maybe i add something more later!
+<p align="center">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/BelkasPro/BetterReadme?style=for-the-badge&label=Stars" width="120">
+</p>
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=A3DCBE&section=footer)
