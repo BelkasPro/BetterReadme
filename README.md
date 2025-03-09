@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=A3DCBE&text=BetterReadme&section=header&fontSize=40&desc=For%20your%20Profile%20or%20Project&fontAlign=50&fontAlignY=40&descAlignY=50&descAlign=52&animation=twinkling)
+<img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=A3DCBE&text=BetterReadme&section=header&fontSize=40&desc=For%20your%20Profile%20or%20Project&fontAlign=50&fontAlignY=40&descAlignY=50&descAlign=52&animation=twinkling">
 <p align="center"> 
   <a href="README.md">English</a> 
   |
@@ -32,4 +32,4 @@ So now its all, maybe i add something more later!
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/BelkasPro/BetterReadme?style=for-the-badge&label=Stars" width="120">
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=A3DCBE&section=footer)
+<img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=A3DCBE&section=footer">
