@@ -6,7 +6,7 @@ https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&log
 ```
 https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=White
 ```
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=White"> | Discord
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> | Discord
 ```
 https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 ```
