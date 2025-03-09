@@ -6,6 +6,10 @@
 </p>
 <br/>
 
+## 🔍 Navigation in project
+1.[How to create Repository](#-hello-user-in-this-repository-i-show-you-how-to-create-really-good-readme-to-your-profile-or-project)
+2.[After creating Repository](#-after-creating-repository)
+3.[In project stroke](#-in-project-stroke)
 ## 📜 Hello user, in this Repository i show you how to create really good ReadMe to your Profile or project.
 Well first let's deal with the repository, first we have to create the repository itself and to do that we just need to click on the `Repository` button and then `New` below you can see how it looks like.
 -----
@@ -22,7 +26,7 @@ Now you can editing `ReadMe.md` file and uploading something to your project, fo
 -----
 ![img](https://github.com/user-attachments/assets/8f00577d-68a4-4a84-86bd-06cc387149d8)
 -----
-# ❗ In project
+# ❗ In project stroke
 For put this to your project or profile readme type stroke like this:
 ```
 ![header](https://capsule-render.vercel.app/api?type=slice)
