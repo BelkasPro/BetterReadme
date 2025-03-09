@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=A3DCBE)
 <p align="center"> 
   <a href="README.md">English</a> 
-  ·
+  |
   <a href="/docs/README_ru.md">Русский</a> 
 </p>
 <br/>
