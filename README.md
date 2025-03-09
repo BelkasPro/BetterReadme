@@ -11,7 +11,7 @@
 2.[After creating Repository](#-after-creating-repository)
 3.[In project stroke](#-in-project-stroke)
 
-## 📜 Hello user, in this Repository i show you how to create really good ReadMe to your Profile or project.
+# 📜 Hello user, in this Repository i show you how to create really good ReadMe to your Profile or project.
 Well first let's deal with the repository, first we have to create the repository itself and to do that we just need to click on the `Repository` button and then `New` below you can see how it looks like.
 -----
 ![img](https://github.com/user-attachments/assets/da935582-a017-4d77-b52c-b80d8ea3ebb1)
