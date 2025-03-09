@@ -31,4 +31,5 @@ So now its all, maybe i add something more later!
 <p align="center">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/BelkasPro/BetterReadme?style=for-the-badge&label=Stars" width="120">
 </p>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=A3DCBE&section=footer)
