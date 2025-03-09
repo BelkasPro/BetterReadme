@@ -1,2 +1,1 @@
-# BetterReadme
-In this repository i tell to you how to create comfortable readme!
+Now readme in progress..
